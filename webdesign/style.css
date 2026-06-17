@@ -242,6 +242,19 @@
     margin: auto;
 }
 
+.video-container {
+    width: 100%;
+    max-width: 800px;
+    height: 450px;
+    overflow: hidden;
+    margin: 20px auto;
+}
+
+.video-container iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
 /* Image Gallery */
     .gallery {
         display: flex;
@@ -365,7 +378,7 @@
         text-align: center;
     }
 
-/* video container */
+/* video container 
     .video-container {
         display: flex;
         justify-content: center;
