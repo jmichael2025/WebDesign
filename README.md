@@ -8,6 +8,7 @@ This project is a multi-page website about Indian classical music, created as pa
 
 The website introduces visitors to the rich traditions of Indian music, including Hindustani and Carnatic classical music, along with information about other musical forms.
 
+Website is published in Github pages, link here: https://jmichael2025.github.io/WebDesign/webdesign/index.html
 ---
 
 ## Technologies Used
